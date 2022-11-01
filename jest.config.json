@@ -1,0 +1,8 @@
+{
+  "verbose": true,
+  "preset": "ts-jest",
+  "testMatch": [
+    "<rootDir>/src/tests/*.+(spec).ts",
+    "<rootDir>/src/tests/**/*.+(spec).ts"
+  ]
+}
